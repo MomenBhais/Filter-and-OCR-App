@@ -1,0 +1,22 @@
+# Python virtual environment  
+venv/  
+env/  
+
+# Compiled Python files  
+*.pyc  
+*.pyo  
+*.log  
+
+# Temporary cache folders  
+__pycache__/  
+.DS_Store  
+
+# VS Code user settings  
+.vscode/  
+
+# Large sample data or images  
+sample_images/  
+sample_cards/  
+
+# Environment variable files (if used)  
+.env  
